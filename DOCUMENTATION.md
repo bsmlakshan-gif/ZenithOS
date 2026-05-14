@@ -1,4 +1,4 @@
-# Zenith OS Documentation
+# ZytherXOS Documentation
 
 ## Overview
 
