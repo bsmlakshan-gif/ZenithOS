@@ -8,7 +8,7 @@ ZytherXOS is a next-generation operating system project focused on performance, 
 
 ## Vision
 
-Zenith OS aims to redefine the operating system experience with a clean interface, powerful performance, and modern technologies inspired by the future of computing.
+ZytherXOS aims to redefine the operating system experience with a clean interface, powerful performance, and modern technologies inspired by the future of computing.
 
 ## Features
 
