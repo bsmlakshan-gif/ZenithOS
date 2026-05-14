@@ -1,4 +1,4 @@
-# Zenith OS Installation Guide
+# ZytherXOS Installation Guide
 
 ## Requirements
 
