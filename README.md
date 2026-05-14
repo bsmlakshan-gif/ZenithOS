@@ -1,6 +1,6 @@
-# Zenith OS
+# ZytherXOS
 
-Zenith OS is a next-generation operating system project focused on performance, simplicity, security, and futuristic design. Built with a modern vision, it delivers a sleek user experience, optimized efficiency, and innovative technology for the future of computing and digital experiences.
+ZytherXOS is a next-generation operating system project focused on performance, simplicity, security, and futuristic design. Built with a modern vision, it delivers a sleek user experience, optimized efficiency, and innovative technology for the future of computing and digital experiences.
 
 ## Current Status
 
