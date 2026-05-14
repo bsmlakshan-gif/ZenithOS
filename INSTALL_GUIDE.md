@@ -9,7 +9,7 @@
 
 ## Installation Steps
 
-1. Download the latest Zenith OS build.
+1. Download the latest ZytherXOS build.
 2. Transfer the ROM package to your device.
 3. Boot into custom recovery mode.
 4. Wipe Data, Cache, and System partitions.
