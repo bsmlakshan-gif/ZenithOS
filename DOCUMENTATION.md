@@ -2,7 +2,7 @@
 
 ## Overview
 
-Zenith OS is a modern operating system project designed to provide a smooth, secure, and futuristic user experience with optimized performance and clean aesthetics.
+ZytherXOS is a modern operating system project designed to provide a smooth, secure, and futuristic user experience with optimized performance and clean aesthetics.
 
 ## Objectives
 
@@ -14,7 +14,7 @@ Zenith OS is a modern operating system project designed to provide a smooth, sec
 
 ## Architecture
 
-Zenith OS is built with a focus on performance optimization, clean system design, and modern interface technologies to provide a seamless computing experience.
+ZytherXOS is built with a focus on performance optimization, clean system design, and modern interface technologies to provide a seamless computing experience.
 
 ## Current Development
 
